@@ -11,13 +11,14 @@ permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-
+highlighter: rouge
+url: "https://TaehoonK.github.io/Thesis/"
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
+title:       "Thesis"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+description: "Web page for introducing my thesis"
+#source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
