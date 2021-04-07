@@ -16,7 +16,7 @@ url: "https://TaehoonK.github.io/Thesis/"
 
 ### content configuration ###
 title:       "Thesis"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+keywords:    "PointCloud, Discrete Global Grid System, Indoor Map Matching, OGC IndoorGML, OGC CItyGML"
 description: "Web page for introducing my thesis"
 #source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
